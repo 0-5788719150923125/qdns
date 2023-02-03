@@ -1,0 +1,3 @@
+[submodule "stealth"]
+	path = stealth
+	url = https://github.com/stealth/libusipp
